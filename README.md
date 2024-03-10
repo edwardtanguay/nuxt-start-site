@@ -8,7 +8,7 @@ This site is a Nuxt site created with `npx nuxi init` and has minimal page routi
 
 - **Use this template**
 
-![grafik](https://github.com/edwardtanguay/nuxt-starter-site/assets/446574/6b306df8-069f-43aa-a1a5-8c6a76f4d83d)
+![grafik](https://github.com/edwardtanguay/nuxt-starter-site/assets/446574/0c636d5d-91da-41ee-bc7f-9548627ecb9a)
 
 - clone locally
 - npm i
