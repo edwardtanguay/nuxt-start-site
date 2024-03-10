@@ -6,5 +6,10 @@ This site is a Nuxt site created with `npx nuxi init` and has minimal page routi
 
 # setup
 
+- **Use this template**
+
+![grafik](https://github.com/edwardtanguay/nuxt-starter-site/assets/446574/6b306df8-069f-43aa-a1a5-8c6a76f4d83d)
+
+- clone locally
 - npm i
 - npm run dev
